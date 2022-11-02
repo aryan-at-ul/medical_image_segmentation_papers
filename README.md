@@ -1,2 +1,1 @@
-# medical_image_segmentation_papers
-a list for paper related to medical image segmentation
+A repo with list of papers related to medical image segmentation 
